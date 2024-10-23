@@ -16,6 +16,14 @@
 **Hyperledger Fabric** is a **Graduated** project under the Hyperledger umbrella, designed for distributed ledger solutions. Its modular architecture provides high levels of confidentiality, resiliency, flexibility, and scalability. Hyperledger Fabric allows for pluggable implementations of various components, accommodating the complexities of different economic ecosystems.
 
 This platform offers a uniquely elastic and extensible architecture, setting it apart from other blockchain solutions. Building on a fully-vetted, open-source framework, Hyperledger Fabric is an ideal starting point for enterprise blockchain initiatives.
+Hyperledger Fabric is a powerful, open-source blockchain framework designed for enterprise solutions. It offers a modular architecture that allows for customizable consensus algorithms, privacy features, and smart contract functionality. Fabric supports permissioned networks, making it suitable for businesses that require secure and scalable distributed ledgers.
+
+## Key Features:
+Modular Architecture: Customize components to meet specific business requirements.
+Permissioned Network: Control access and ensure privacy with membership services.
+Smart Contracts: Develop and deploy chaincode in various programming languages.
+Pluggable Consensus: Choose from multiple consensus mechanisms to fit your needs.
+Rich Query Capabilities: Query data with advanced features like rich queries and JSON support.
 
 ## Releases
 
